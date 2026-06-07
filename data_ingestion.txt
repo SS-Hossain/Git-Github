@@ -1,8 +1,6 @@
 Hey, I am not ingesting the data in this file (bug is fixed).
 Master here, Let me also contribute to this project.
-
-
-
 I am fixing this bug.
 I am ingesting batch data.
 I am ingesting big data.
+I am a python developer.
